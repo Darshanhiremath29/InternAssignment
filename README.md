@@ -1,3 +1,28 @@
+# Google Sheets Clone
+
+## Overview
+This project is a simple **Google Sheets Clone** built using **React, TypeScript, RecoilJS, and MathJS**. It allows users to create spreadsheets, perform calculations, and manage data in a web-based environment.
+
+## Features
+✅ **Spreadsheet Interface** - Similar to Google Sheets with an interactive grid.  
+✅ **Mathematical Operations** - Supports SUM, AVERAGE, MIN, MAX, COUNT.  
+✅ **State Management** - Uses RecoilJS for efficient data handling.  
+✅ **Lightweight & Fast** - Developed using Vite for fast builds.  
+✅ **Dark Mode Support** - Includes a toggle for dark mode UI.  
+
+## Installation & Setup
+
+### Prerequisites
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (Latest LTS version recommended)
+- npm (comes with Node.js) or yarn
+
+### Steps
+1. **Clone the repository:**  
+   ```sh
+   git clone <your-repo-link>
+   cd sheets-clone
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center" id="readme-top">
